@@ -1,0 +1,542 @@
+======================================================================
+   NIDS - Network Intrusion Detection System
+   Alert Log File
+   Created: 2026-05-20 07:24:54
+======================================================================
+
+ALERT #1
+Timestamp : 2026-05-20 07:24:56
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 192.168.29.54
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #2
+Timestamp : 2026-05-20 07:24:56
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 13.107.137.11
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #3
+Timestamp : 2026-05-20 07:25:04
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 52.108.9.12
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #4
+Timestamp : 2026-05-20 07:25:05
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 52.108.9.12
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #5
+Timestamp : 2026-05-20 07:25:06
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 52.104.31.39
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #6
+Timestamp : 2026-05-20 07:25:08
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 52.104.31.39
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #7
+Timestamp : 2026-05-20 07:25:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 23.193.56.43
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #8
+Timestamp : 2026-05-20 07:25:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.89.179.10
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #9
+Timestamp : 2026-05-20 12:37:10
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 10.23.189.248
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #10
+Timestamp : 2026-05-20 12:37:10
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 20.42.73.27
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #11
+Timestamp : 2026-05-20 12:37:12
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 10.23.189.212
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #12
+Timestamp : 2026-05-20 12:37:12
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 10.23.189.212
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #13
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #14
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #15
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #16
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #17
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #18
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #19
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #20
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #21
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #22
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #23
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #24
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #25
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #26
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #27
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #28
+Timestamp : 2026-05-20 12:37:13
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 13.107.137.11
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #29
+Timestamp : 2026-05-20 12:37:13
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 52.108.8.12
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #30
+Timestamp : 2026-05-20 12:37:14
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 10.23.189.212
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #31
+Timestamp : 2026-05-20 12:37:16
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 10.23.189.212
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #32
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #33
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #34
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #35
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #36
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #37
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #38
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #39
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #40
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #41
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #42
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #43
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #44
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #45
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #46
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #47
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #48
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #49
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #50
+Timestamp : 2026-05-20 12:37:18
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #51
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #52
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #53
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #54
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #55
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #56
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #57
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #58
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #59
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #60
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #61
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #62
+Timestamp : 2026-05-20 12:37:19
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 10.23.189.212
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #63
+Timestamp : 2026-05-20 12:37:21
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #64
+Timestamp : 2026-05-20 12:37:21
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 20.42.73.27
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
+ALERT #65
+Timestamp : 2026-05-20 12:37:23
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 20.42.65.91
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #66
+Timestamp : 2026-05-20 12:37:36
+Type      : BRUTE FORCE ATTACK DETECTED
+Severity  : CRITICAL
+Source IP : 52.108.186.4
+Details   : 30 rapid connections in 10 seconds
+--------------------------------------------------
+
+ALERT #67
+Timestamp : 2026-05-20 12:37:39
+Type      : PORT SCAN DETECTED
+Severity  : HIGH
+Source IP : 10.23.189.212
+Details   : Tried 5 different ports — possible reconnaissance attack
+--------------------------------------------------
+
