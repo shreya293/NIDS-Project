@@ -1,0 +1,8 @@
+alerts_log.txt
+alerts_log.json
+alerts_log.csv
+blocked_ips.json
+__pycache__/
+*.pyc
+.env
+NIDS_Security_Report.pdf
