@@ -196,7 +196,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > Right terminal: Attack simulator showing the port scan running and completing.
 > Both running simultaneously — attacker on right, defender detecting on left.
 
-![Port Scan Detected](screenshots/2_port_scan_detected.png)
+![Port Scan Detected](screenshots/Screenshot2.png)
 
 ---
 
@@ -207,7 +207,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > The green blinking dot shows system is actively monitoring.
 > Auto-refreshes every 5 seconds automatically.
 
-![Dashboard Home](screenshots/3_dashboard_home.png)
+![Dashboard Home](screenshots/Screenshot3.png)
 
 ---
 
@@ -217,7 +217,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > Each row shows: exact timestamp, attack type, source IP address, and severity badge.
 > CRITICAL shown in red, HIGH in orange, MEDIUM in yellow.
 
-![Dashboard Alerts Table](screenshots/4_dashboard_alerts.png)
+![Dashboard Alerts Table](screenshots/Screenshot4.png)
 
 ---
 
@@ -227,7 +227,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > Each entry shows: IP address, reason for blocking, time of blocking, and firewall rule name.
 > These rules can be verified in Windows Defender Firewall Advanced Settings → Inbound Rules.
 
-![Dashboard Blocked IPs](screenshots/5_dashboard_blocked.png)
+![Dashboard Blocked IPs](screenshots/Screenshot5.png)
 
 ---
 
@@ -238,7 +238,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > Blocked IP Addresses table, and Security Recommendations.
 > Generated automatically from collected alert data using ReportLab.
 
-![PDF Report](screenshots/6_pdf_report.png)
+![PDF Report](screenshots/Screenshot6.png)
 
 ---
 
@@ -248,7 +248,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > Each rule was created automatically by our Python code using netsh command.
 > This proves the firewall blocking actually works — not just logged but enforced!
 
-![Windows Firewall Rules](screenshots/7_windows_firewall.png)
+![Windows Firewall Rules](screenshots/Screenshot7.png)
 
 ---
 
@@ -259,7 +259,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > alert types with counts, and all currently blocked IPs with firewall rule names.
 > This is the complete proof that the entire system worked end-to-end.
 
-![Alert Summary](screenshots/8_alert_summary.png)
+![Alert Summary](screenshots/Screenshot8.png)
 
 ---
 
