@@ -117,7 +117,7 @@ Network Traffic (all packets)
 
 ### Step 1 — Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/NIDS-Project.git
+git clone https://github.com/shreya293/NIDS-Project/tree/main
 cd NIDS-Project
 ```
 
