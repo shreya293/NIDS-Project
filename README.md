@@ -185,7 +185,7 @@ Remove-Item -Path "alerts_log.txt","alerts_log.json","alerts_log.csv","blocked_i
 > Each line is one packet — you can see HTTPS, DNS, TCP, FTP traffic being monitored.
 > The system identifies the protocol automatically from the port number.
 
-![Terminal Live Capture](screenshot1.png)
+![Terminal Live Capture](/screenshot1.png)
 
 
 ---
